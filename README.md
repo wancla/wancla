@@ -14,6 +14,22 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Javascript and PHP**
 - 📫 How to reach me: wancleif.santos@gmail.com
 
+<h3>My principal Projects</h3>
+
+1. [Introdução Ux/Ui](https://github.com/wancla/introduction-ux-ui)
+2. [Nwl4 Rockseat](https://github.com/wancla/nlw4-moveit-rockseat)
+
+
+<h3>My Favorites Projects on Github</h3
+  
+1. [Build your own x](https://github.com/danistefanovic/build-your-own-x)
+2. [Free Programming E-book](https://github.com/EbookFoundation/free-programming-books)
+3. [Oh My zsh](https://github.com/ohmyzsh/ohmyzsh)
+4. [System design primer](https://github.com/donnemartin/system-design-primer)
+5. [Publics API](https://github.com/public-apis/public-apis)
+
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/wancleifelipe" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" height="30" width="40" /></a>
