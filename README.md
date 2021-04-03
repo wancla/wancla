@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 
 1. [Introdução Ux/Ui](https://github.com/wancla/introduction-ux-ui)
 2. [Nwl4 Rockseat](https://github.com/wancla/nlw4-moveit-rockseat)
+3. [Beginners iv2](https://github.com/wancla/faculdadeiv2-beginners)
 
 
 <h3>My Favorites Projects on Github</h3
