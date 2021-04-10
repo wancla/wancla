@@ -14,14 +14,14 @@ Here are some ideas to get you started:
 - 💬 Ask me about **Javascript and PHP**
 - 📫 How to reach me: wancleif.santos@gmail.com
 
-<h3>My principal Projects</h3>
+<h3>My principal projects</h3>
 
 1. [Nwl4 Rockseat](https://github.com/wancla/nlw4-moveit-rockseat)
 2. [Beginners iv2](https://github.com/wancla/faculdadeiv2-beginners)
 3. [Kanban with Angular & Scss Bulma](https://github.com/wancla/kanban-angular)
 
 
-<h3>My Favorites Projects on Github</h3
+<h3>My favorites projects in Github</h3
   
 1. [Build your own x](https://github.com/danistefanovic/build-your-own-x)
 2. [Free Programming E-book](https://github.com/EbookFoundation/free-programming-books)
