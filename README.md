@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 1. [Nwl4 Rockseat](https://github.com/wancla/nlw4-moveit-rockseat)
 2. [Beginners iv2](https://github.com/wancla/faculdadeiv2-beginners)
-3. [Maratona Discover2021 Rockseat](https://github.com/wancla/nlw4-moveit-rockseat)
+3. [Kanban with Angular & Scss Bulma](https://github.com/wancla/kanban-angular)
 
 
 <h3>My Favorites Projects on Github</h3
