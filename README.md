@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 <h3>My principal Projects</h3>
 
-1. [Introdução Ux/Ui](https://github.com/wancla/introduction-ux-ui)
-2. [Nwl4 Rockseat](https://github.com/wancla/nlw4-moveit-rockseat)
-3. [Beginners iv2](https://github.com/wancla/faculdadeiv2-beginners)
+1. [Nwl4 Rockseat](https://github.com/wancla/nlw4-moveit-rockseat)
+2. [Beginners iv2](https://github.com/wancla/faculdadeiv2-beginners)
+3. [Maratona Discover2021 Rockseat](https://github.com/wancla/nlw4-moveit-rockseat)
 
 
 <h3>My Favorites Projects on Github</h3
