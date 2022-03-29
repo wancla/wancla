@@ -1,6 +1,6 @@
 
   <h1 align="center">Hi Guys! ✌, I'm Wanclei Felipe</h1>
-  <h3 align="center">Front-End Developer & Ui/Ux lover💕 </h3>  
+  <h3 align="center">Fullstack Developer and DevOps💕 </h3>  
   
   <p align="center"><img src="https://static.whow.com.br/wp-content/uploads/2020/03/PUC-Games-Topo.png" height="150" width="500"></p> 
 
@@ -16,9 +16,9 @@ Here are some ideas to get you started:
 
 <h3>My principal projects</h3>
 
-1. [Nwl4 Rockseat](https://github.com/wancla/nlw4-moveit-rockseat)
+<!-- 1. [Nwl4 Rockseat](https://github.com/wancla/nlw4-moveit-rockseat)
 2. [Beginners iv2](https://github.com/wancla/faculdadeiv2-beginners)
-3. [Kanban with Angular & Scss Bulma](https://github.com/wancla/kanban-angular)
+3. [Kanban with Angular & Scss Bulma](https://github.com/wancla/kanban-angular) -->
 
 
 <h3>My favorites projects in Github</h3
